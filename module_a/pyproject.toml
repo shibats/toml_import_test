@@ -4,7 +4,7 @@ version = "0.1.0"
 dependencies = []
 [tool.setuptools]
 packages = [
-  "sub_c",
+  "sub_a",
   "sub_b",
-  "sub_a"
+  "sub_c"
 ]
