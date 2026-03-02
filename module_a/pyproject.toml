@@ -2,8 +2,9 @@
 name = "module-a"
 version = "0.1.0"
 dependencies = []
-[options]
-packages = 
-  sub_c
-  sub_b
-  sub_a
+[tool.setuptools]
+packages = [
+  "sub_c",
+  "sub_b",
+  "sub_a"
+]
