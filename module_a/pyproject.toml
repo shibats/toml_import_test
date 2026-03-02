@@ -4,4 +4,6 @@ version = "0.1.0"
 dependencies = []
 [options]
 packages = 
-['sub_c', 'sub_b', 'sub_a']
+  sub_c
+  sub_b
+  sub_a
